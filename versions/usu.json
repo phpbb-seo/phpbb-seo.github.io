@@ -1,9 +1,9 @@
 {
     "stable": {
-        "2.0.0-b1": {
-            "current": "2.0.0-b1",
-            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2259666",
-            "download": "https://github.com/alg5/AddonForThanksForPosts/tree/dev_3.2.x",
+        "1.0.7": {
+            "current": "2.0.0",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2329541",
+            "download": "https://github.com/alg5/adminnotifications/tree/dev_3.2.x",
             "eol": null,
             "security": false
         }
