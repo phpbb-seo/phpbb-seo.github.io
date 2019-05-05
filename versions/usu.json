@@ -1,6 +1,6 @@
 {
-    "stable": {
-        "2.0.0-b3": {
+    "unstable": {
+        "2.0": {
             "current": "2.0.0-b3",
             "announcement": "http://www.phpbb-seo.org/community/announcements-f2",
             "download": "https://github.com/phpbb-seo/usu/archive/beta-3.zip",
