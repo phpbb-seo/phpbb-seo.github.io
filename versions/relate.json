@@ -1,0 +1,11 @@
+{
+    "unstable": {
+        "2.0": {
+            "current": "2.0.0-b2",
+            "announcement": "http://www.phpbb-seo.ir/community/related-topics/phpbb-seo-related-topics-beta-2-released-t1222.html",
+            "download": "https://github.com/phpbb-seo/related-topics/archive/2.0.0.b2.zip",
+            "eol": null,
+            "security": false
+        }
+    }
+}
