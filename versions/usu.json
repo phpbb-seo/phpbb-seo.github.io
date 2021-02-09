@@ -1,9 +1,9 @@
 {
     "unstable": {
         "2.0": {
-            "current": "2.0.0-b6",
+            "current": "2.0.2-beta",
             "announcement": "",
-            "download": "https://github.com/phpbb-seo/usu/archive/2.0.0-b6.zip",
+            "download": "https://github.com/phpbb-seo/usu/",
             "eol": null,
             "security": false
         }
