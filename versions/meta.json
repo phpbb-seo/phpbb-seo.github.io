@@ -1,9 +1,9 @@
 {
     "unstable": {
         "2.0": {
-            "current": "2.0.0-b3",
-            "announcement": "http://www.phpbb-seo.ir/community/dynamic-meta-tags/phpbb-seo-dynamic-meta-tags-beta3-released-t1225.html",
-            "download": "http://www.phpbb-seo.ir/community/app.php/downloadsystem",
+            "current": "2.0.2-beta",
+            "announcement": "http://www.phpbb-seo.ir/community/",
+            "download": "https://github.com/phpbb-seo/meta",
             "eol": null,
             "security": false
         }
