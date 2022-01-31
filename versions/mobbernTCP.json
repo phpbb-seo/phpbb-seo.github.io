@@ -1,0 +1,11 @@
+{
+    "unstable": {
+        "2.0": {
+            "current": "3.3.6",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=691&t=2613071",
+            "download": "https://github.com/phpbb-seo/Mobbern/archive/refs/heads/main.zip",
+            "eol": null,
+            "security": false
+        }
+    }
+}
